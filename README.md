@@ -1,8 +1,8 @@
-<h2 align="center">Hello World! 👋</h2>
+<h2 align="left">Hello World! 👋</h2>
 
 ###
 
-<p align="center">I'm Maurício and I'm currently studying web development. 😄</p>
+<p align="left">I'm Maurício and I'm currently studying web development. 😄</p>
 
 ### 💻 Tech Stack:
 
